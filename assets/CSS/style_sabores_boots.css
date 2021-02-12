@@ -1,0 +1,76 @@
+body { 
+    font-family: 'Lato', sans-serif;
+   
+}
+.container-lg {
+    margin: 0rem 1rem 1rem 1rem;
+}
+.imgBackground {
+    background-image: url('../../img/pescado_frito_1026x480_sello.jpg');
+    background-repeat: no-repeat;
+    background-size:100% auto;
+    height: 480px;
+}
+.navbar{
+    
+    min-height: 90px;
+}
+.logoSabores {
+    min-width: 12rem;
+    max-width: 18rem;
+}
+
+
+.carousel-item {
+    height: 80vh;
+    min-height: 500px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+  }
+
+.card-header {
+    background-color:#3C3C3B;
+    color: #ffc107;
+}
+.jumbotron {
+    background-color: #3c3c3bff;
+    color: #ffff;
+    padding-bottom: 20px;
+}
+.card-title a {
+    color:rgb(56, 56, 56)
+}
+/*.backImg {
+    background-image: url("../../img/Rio_Parana.jpg");
+    background-size: cover;
+    padding-top: 90px;
+    max-width: 100%;
+    color: #fff;
+}*/
+
+#pescaditos {
+    list-style: none;
+   }
+#fish {
+    list-style-image: url(../../img/SVG_fish_icon.svg);
+    
+    padding-right: 8px; /* Establecemos el espacio entre las viñetas y el list item */
+        
+}
+.col-lg-6 {
+margin-bottom: 1rem;
+
+}
+.botonBloque {
+    padding: 0px;
+    margin: 0px;
+
+}
+
